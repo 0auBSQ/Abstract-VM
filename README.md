@@ -9,6 +9,6 @@ make
 ./abstractvm [filename]
 ```
 
-Executing without argument reads instructions on the standard input.<\br>
-Executing with an argument reads the given filename.<\br>
+Executing without argument reads instructions on the standard input.
+Executing with an argument reads the given filename.
 You can close the stdin using `;;`, `exit` or `CTRL+D`.
